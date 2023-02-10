@@ -2,7 +2,7 @@
 from os import getenv
 
 # Get it from my.telegram.org
-API_ID = int(getenv("8460373"))
+API_ID = getenv("8460373")
 API_HASH = getenv("83d8e423197251216303abfcbed9e820")
 
 ## Get it from @Botfather in Telegram.
